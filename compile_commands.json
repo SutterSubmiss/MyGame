@@ -1,0 +1,101 @@
+[{
+		"file":	"/home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Suboption.cpp",
+		"directory":	"/home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2",
+		"command":	"/bin/g++-13 -c /home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Suboption.cpp -o /home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Suboption.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/13 -I/usr/include/x86_64-linux-gnu/c++/13 -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-linux-gnu/13/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I/usr/include/ncurses.h  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"/home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/main.cpp",
+		"directory":	"/home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2",
+		"command":	"/bin/g++-13 -c /home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/main.cpp -o /home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/13 -I/usr/include/x86_64-linux-gnu/c++/13 -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-linux-gnu/13/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I/usr/include/ncurses.h  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"/home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Window.cpp",
+		"directory":	"/home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2",
+		"command":	"/bin/g++-13 -c /home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Window.cpp -o /home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Window.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/13 -I/usr/include/x86_64-linux-gnu/c++/13 -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-linux-gnu/13/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I/usr/include/ncurses.h  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"/home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Suboptions_Window.cpp",
+		"directory":	"/home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2",
+		"command":	"/bin/g++-13 -c /home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Suboptions_Window.cpp -o /home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Suboptions_Window.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/13 -I/usr/include/x86_64-linux-gnu/c++/13 -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-linux-gnu/13/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I/usr/include/ncurses.h  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"/home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/File_Dialog.cpp",
+		"directory":	"/home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2",
+		"command":	"/bin/g++-13 -c /home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/File_Dialog.cpp -o /home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/File_Dialog.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/13 -I/usr/include/x86_64-linux-gnu/c++/13 -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-linux-gnu/13/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I/usr/include/ncurses.h  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"/home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Text_buffer.cpp",
+		"directory":	"/home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2",
+		"command":	"/bin/g++-13 -c /home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Text_buffer.cpp -o /home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Text_buffer.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/13 -I/usr/include/x86_64-linux-gnu/c++/13 -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-linux-gnu/13/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I/usr/include/ncurses.h  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"/home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Character.cpp",
+		"directory":	"/home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2",
+		"command":	"/bin/g++-13 -c /home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Character.cpp -o /home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Character.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/13 -I/usr/include/x86_64-linux-gnu/c++/13 -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-linux-gnu/13/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I/usr/include/ncurses.h  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"/home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Board.cpp",
+		"directory":	"/home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2",
+		"command":	"/bin/g++-13 -c /home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Board.cpp -o /home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Board.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/13 -I/usr/include/x86_64-linux-gnu/c++/13 -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-linux-gnu/13/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I/usr/include/ncurses.h  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"/home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Non_Playable_Character.cpp",
+		"directory":	"/home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2",
+		"command":	"/bin/g++-13 -c /home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Non_Playable_Character.cpp -o /home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Non_Playable_Character.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/13 -I/usr/include/x86_64-linux-gnu/c++/13 -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-linux-gnu/13/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I/usr/include/ncurses.h  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"/home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Option.cpp",
+		"directory":	"/home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2",
+		"command":	"/bin/g++-13 -c /home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Option.cpp -o /home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Option.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/13 -I/usr/include/x86_64-linux-gnu/c++/13 -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-linux-gnu/13/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I/usr/include/ncurses.h  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"/home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Playable_Character.h",
+		"directory":	"/home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2",
+		"command":	"/bin/g++-13 -c /home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Playable_Character.h -o /home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Playable_Character.h.o -target x86_64-linux-gnu -I/usr/include/c++/13 -I/usr/include/x86_64-linux-gnu/c++/13 -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-linux-gnu/13/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I/usr/include/ncurses.h  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"/home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Playable_Character.cpp",
+		"directory":	"/home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2",
+		"command":	"/bin/g++-13 -c /home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Playable_Character.cpp -o /home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Playable_Character.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/13 -I/usr/include/x86_64-linux-gnu/c++/13 -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-linux-gnu/13/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I/usr/include/ncurses.h  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"/home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Non_Playable_Character.h",
+		"directory":	"/home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2",
+		"command":	"/bin/g++-13 -c /home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Non_Playable_Character.h -o /home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Non_Playable_Character.h.o -target x86_64-linux-gnu -I/usr/include/c++/13 -I/usr/include/x86_64-linux-gnu/c++/13 -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-linux-gnu/13/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I/usr/include/ncurses.h  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"/home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Board.h",
+		"directory":	"/home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2",
+		"command":	"/bin/g++-13 -c /home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Board.h -o /home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Board.h.o -target x86_64-linux-gnu -I/usr/include/c++/13 -I/usr/include/x86_64-linux-gnu/c++/13 -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-linux-gnu/13/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I/usr/include/ncurses.h  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"/home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Read.cpp",
+		"directory":	"/home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2",
+		"command":	"/bin/g++-13 -c /home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Read.cpp -o /home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Read.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/13 -I/usr/include/x86_64-linux-gnu/c++/13 -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-linux-gnu/13/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I/usr/include/ncurses.h  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"/home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/File_Dialog.h",
+		"directory":	"/home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2",
+		"command":	"/bin/g++-13 -c /home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/File_Dialog.h -o /home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/File_Dialog.h.o -target x86_64-linux-gnu -I/usr/include/c++/13 -I/usr/include/x86_64-linux-gnu/c++/13 -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-linux-gnu/13/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I/usr/include/ncurses.h  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"/home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Write.cpp",
+		"directory":	"/home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2",
+		"command":	"/bin/g++-13 -c /home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Write.cpp -o /home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Write.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/13 -I/usr/include/x86_64-linux-gnu/c++/13 -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-linux-gnu/13/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I/usr/include/ncurses.h  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"/home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Character.h",
+		"directory":	"/home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2",
+		"command":	"/bin/g++-13 -c /home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Character.h -o /home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Character.h.o -target x86_64-linux-gnu -I/usr/include/c++/13 -I/usr/include/x86_64-linux-gnu/c++/13 -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-linux-gnu/13/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I/usr/include/ncurses.h  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"/home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Write.h",
+		"directory":	"/home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2",
+		"command":	"/bin/g++-13 -c /home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Write.h -o /home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Write.h.o -target x86_64-linux-gnu -I/usr/include/c++/13 -I/usr/include/x86_64-linux-gnu/c++/13 -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-linux-gnu/13/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I/usr/include/ncurses.h  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"/home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Suboption.h",
+		"directory":	"/home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2",
+		"command":	"/bin/g++-13 -c /home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Suboption.h -o /home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Suboption.h.o -target x86_64-linux-gnu -I/usr/include/c++/13 -I/usr/include/x86_64-linux-gnu/c++/13 -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-linux-gnu/13/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I/usr/include/ncurses.h  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"/home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Option.h",
+		"directory":	"/home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2",
+		"command":	"/bin/g++-13 -c /home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Option.h -o /home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Option.h.o -target x86_64-linux-gnu -I/usr/include/c++/13 -I/usr/include/x86_64-linux-gnu/c++/13 -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-linux-gnu/13/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I/usr/include/ncurses.h  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"/home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Suboptions_Window.h",
+		"directory":	"/home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2",
+		"command":	"/bin/g++-13 -c /home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Suboptions_Window.h -o /home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Suboptions_Window.h.o -target x86_64-linux-gnu -I/usr/include/c++/13 -I/usr/include/x86_64-linux-gnu/c++/13 -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-linux-gnu/13/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I/usr/include/ncurses.h  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"/home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Read.h",
+		"directory":	"/home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2",
+		"command":	"/bin/g++-13 -c /home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Read.h -o /home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Read.h.o -target x86_64-linux-gnu -I/usr/include/c++/13 -I/usr/include/x86_64-linux-gnu/c++/13 -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-linux-gnu/13/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I/usr/include/ncurses.h  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"/home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Window.h",
+		"directory":	"/home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2",
+		"command":	"/bin/g++-13 -c /home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Window.h -o /home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Window.h.o -target x86_64-linux-gnu -I/usr/include/c++/13 -I/usr/include/x86_64-linux-gnu/c++/13 -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-linux-gnu/13/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I/usr/include/ncurses.h  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"/home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Text_buffer.h",
+		"directory":	"/home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2",
+		"command":	"/bin/g++-13 -c /home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Text_buffer.h -o /home/kacsus/Dokumenty/my_new_workspace/my_new_workspace4/my_new_workspace2/Text_buffer.h.o -target x86_64-linux-gnu -I/usr/include/c++/13 -I/usr/include/x86_64-linux-gnu/c++/13 -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-linux-gnu/13/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I/usr/include/ncurses.h  -gdwarf-2  -O0  -Wall"
+	}]

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="my_new_workspace2" Database="" Version="10000">
+  <Project Name="my_new_workspace2" Path="my_new_workspace2/my_new_workspace2.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="my_new_workspace2" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="ncurses">
+      <Environment/>
+      <Project Name="my_new_workspace2" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
