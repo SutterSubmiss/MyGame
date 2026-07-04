@@ -1,5 +1,6 @@
 #include "Character.h"
 #include <ncurses.h>
+#include <curses.h>
 Character::Character() {
 	this->name = "Jack";
 	this->hp = 100;
