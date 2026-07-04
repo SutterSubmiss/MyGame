@@ -1,5 +1,6 @@
 #include "Non_Playable_Character.h"
 #include <ncurses.h>
+#include <curses.h>
 #include <cmath>
 #include <string>
 #include <vector>
