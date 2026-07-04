@@ -1,5 +1,7 @@
 #include "Playable_Character.h"
 #include <ncurses.h>
+#include <curses.h>
+
 #include <string>
 #include <cstdlib>
 #include <chrono>
